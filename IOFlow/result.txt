@@ -1,0 +1,5 @@
+1. The shortest word is: jolt
+2. The longest word id: depreciation
+3. First word sorted alphabetically: anthem
+4. Last word sorted alphabetically: swiftness
+5. Numbers of words: 12
