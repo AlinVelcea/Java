@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<class>
+     
+ <gbtsFunction id="1">
+          
+  <AID>1</AID>
+          
+  <CITY>Bucharest</CITY>
+          
+  <ADDRESS>Barbu Vacarescu 5</ADDRESS>
+          
+  <CFGVERSION>1.0</CFGVERSION>
+      
+ </gbtsFunction>
+     
+ <nodebFunction id="1">
+          
+  <AID>2</AID>
+          
+  <CITY>Bucharest</CITY>
+          
+  <ADDRESS>Barbu Vacarescu 5</ADDRESS>
+          
+  <CFGVERSION>1.0</CFGVERSION>
+      
+ </nodebFunction>
+     
+ <eNodeBFunction id="1">
+          
+  <AID>3</AID>
+          
+  <CITY>Bucharest</CITY>
+          
+  <ADDRESS>Barbu Vacarescu 5</ADDRESS>
+          
+  <CFGVERSION>1.0</CFGVERSION>
+      
+ </eNodeBFunction>
+     
+ <gNodeBFunction id="1">
+          
+  <AID>4</AID>
+          
+  <CITY>Bucharest</CITY>
+          
+  <ADDRESS>Barbu Vacarescu 5</ADDRESS>
+          
+  <CFGVERSION>1.0</CFGVERSION>
+      
+ </gNodeBFunction>
+     
+ <RRU id="1">
+          
+  <SN>1</SN>
+          
+  <SRN>1</SRN>
+          
+  <RCN>1</RCN>
+      
+ </RRU>
+ 
+ <RRU id="3" newAttribute="newValue">
+  <SN>2</SN>
+  <SRN>2</SRN>
+  <RCN>2</RCN>
+ </RRU>
+</class>
