@@ -71,4 +71,10 @@ public class Candies implements ISurprise {
     public String toString() {
         return "Candy surprise: " + this.candiesNumber + " " + this.candy;
     }
+
+    @Override
+    public String getType() {
+        // TODO Auto-generated method stub
+        return "Candies";
+    }
 }

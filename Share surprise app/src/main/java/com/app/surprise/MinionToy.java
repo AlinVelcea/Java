@@ -56,4 +56,9 @@ public class MinionToy implements ISurprise{
     public String toString() {
         return "Minion toy surprise: " + this.minionName;
     }
+
+    @Override
+    public String getType() {
+        return "MinionToy";
+    }
 }

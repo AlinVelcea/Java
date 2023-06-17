@@ -40,4 +40,9 @@ public class FortuneCookie implements ISurprise {
     public String toString() {
         return "Fortune cookie: " + this.message + " (" + SayingFactory.getAuthor() + ")";
     }
+
+    @Override
+    public String getType() {
+        
+        return "FortuneCookie";}
 }
